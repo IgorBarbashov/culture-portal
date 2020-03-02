@@ -1,0 +1,23 @@
+{
+    "en": {
+        "nativeId": "6",
+        "nativeImage": "assets/images/Barbashov.jpeg",
+        "name": "Igor Barbashov",
+        "link": "https://github.com/IgorBarbashov",
+        "role": "Engineer-developer"
+    },
+    "ru": {
+        "nativeId": "6",
+        "nativeImage": "assets/images/Barbashov.jpeg",
+        "name": "Игорь Барбашов",
+        "link": "https://github.com/IgorBarbashov",
+        "role": "Инженер-разработчик"
+    },
+    "be": {
+        "nativeId": "6",
+        "nativeImage": "assets/images/Barbashov.jpeg",
+        "name": "Ігар Барбашоў",
+        "link": "https://github.com/IgorBarbashov",
+        "role": "Інжынер-распрацоўшчык"
+    }
+}

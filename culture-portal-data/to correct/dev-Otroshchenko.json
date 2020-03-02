@@ -1,0 +1,23 @@
+{
+    "en": {
+        "nativeId": "4",
+        "nativeImage": "assets/images/Otroshchenko.jpeg",
+        "name": "Vladimir Otroshchenko",
+        "link": "https://github.com/VladimirOtroshchenko",
+        "role": "Front-end developer"
+    },
+    "ru": {
+        "nativeId": "4",
+        "nativeImage": "assets/images/Otroshchenko.jpeg",
+        "name": "Владимир Отрощенко",
+        "link": "https://github.com/VladimirOtroshchenko",
+        "role": "Фронтенд-разработчик"
+    },
+    "be": {
+        "nativeId": "4",
+        "nativeImage": "assets/images/Otroshchenko.jpeg",
+        "name": "Уладзімір Атрошчанка",
+        "link": "https://github.com/VladimirOtroshchenko",
+        "role": "Front-end распрацоўшчык"
+    }
+}

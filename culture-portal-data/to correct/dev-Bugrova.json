@@ -1,0 +1,23 @@
+{
+    "be": {
+        "link": "https://github.com/lyolya95",
+        "name": "Вольга Бугрова",
+        "role": "Front-end распрацоўшчык",
+        "nativeId": "1",
+        "nativeImage": "assets/images/Bugrova.jpeg"
+    },
+    "en": {
+        "link": "https://github.com/lyolya95",
+        "name": "Olga Bugrova",
+        "role": "Front-end developer",
+        "nativeId": "1",
+        "nativeImage": "assets/images/Bugrova.jpeg"
+    },
+    "ru": {
+        "link": "https://github.com/lyolya95",
+        "name": "Ольга Бугрова",
+        "role": "Фронтенд-разработчик",
+        "nativeId": "1",
+        "nativeImage": "assets/images/Bugrova.jpeg"
+    }
+}

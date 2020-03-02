@@ -1,0 +1,121 @@
+{
+  "nativeId": 3,
+  "nativeImage": "Chorny",
+  "name": "Kuzma Chorny",
+  "birthDate": "1900-06-24",
+  "deathDate": "1944-11-22",
+  "birthCity": "Borki",
+  "description": "Kuzma Chorny (real name Nikolai Karlovich Romanovsky) - Belarusian Soviet writer, playwright and translator",
+  "video": "https://youtu.be/HGvYNDVLqoI",
+  "location": {
+    "longitude": 54.11213,
+    "latitude": 26.56134
+  },
+  "biography": [
+    {
+      "startAt": "1900",
+      "endAt": null,
+      "description": "Born in a village in the village of Borki on Sluchin in a peasant family"
+    },
+    {
+      "startAt": "1913",
+      "endAt": null,
+      "description": "Graduated from the Timkovichy National School"
+    },
+    {
+      "startAt": "1916",
+      "endAt": "1919",
+      "description": "Studied at the Nesvizh Teacher Seminary."
+    },
+    {
+      "startAt": "1923",
+      "endAt": null,
+      "description": "He entered the literary department of the pedagogical faculty of the Belarusian State University and in the same year his first works under the pseudonym Kuzma Chorny were published in the newspaper Savetskaya Belarus."
+    },
+    {
+      "startAt": "since 1923",
+      "endAt": null,
+      "description": "Member of the literary association «Maladnyak»"
+    },
+    {
+      "startAt": "1926",
+      "endAt": null,
+      "description": "Moved to the literary association «Uzvyshsha»."
+    },
+    {
+      "startAt": "1934",
+      "endAt": null,
+      "description": "Member of the Union of Writers of the USSR."
+    },
+    {
+      "startAt": "1938",
+      "endAt": "1939",
+      "description": "He was arrested and imprisoned in Minsk prison, where he spent 8 months, including 6 months in solitary confinement."
+    },
+    {
+      "startAt": "since 1941",
+      "endAt": null,
+      "description": "He was evacuated, worked in many campaign newspapers."
+    },
+    {
+      "startAt": "1942",
+      "endAt": null,
+      "description": "He moved to Moscow, worked in the editorial office of the magazine «Belarus»"
+    },
+    {
+      "startAt": "1944",
+      "endAt": null,
+      "description": "He returned to Minsk, where he died of a second stroke."
+    }
+  ],
+  "works": [
+    {
+      "startAt": "1925",
+      "endAt": null,
+      "genre": "Storybooks",
+      "title": "Stories and the Silver of Life"
+    },
+    {
+      "startAt": "1926",
+      "endAt": null,
+      "genre": "Storybooks",
+      "title": "Along the road, Feelings, Pines say"
+    },
+    {
+      "startAt": "1927",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Sister"
+    },
+    {
+      "startAt": "1928",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Land"
+    },
+    {
+      "startAt": "1931",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Fatherland"
+    },
+    {
+      "startAt": "1935",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Third generation"
+    },
+    {
+      "startAt": "1943",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Search for the future"
+    },
+    {
+      "startAt": "1944",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Milky Way"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+    "en": {
+        "nativeId": "2",
+        "nativeImage": "assets/images/Soika.jpeg",
+        "name": "Volha Soika",
+        "link": "https://github.com/vsoika",
+        "role": "Front-end developer"
+    },
+    "ru": {
+        "nativeId": "2",
+        "nativeImage": "assets/images/Soika.jpeg",
+        "name": "Ольга Сойко",
+        "link": "https://github.com/vsoika",
+        "role": "Фронтенд-разработчик"
+    },
+    "be": {
+        "nativeId": "2",
+        "nativeImage": "assets/images/Soika.jpeg",
+        "name": "Вольга Сойка",
+        "link": "https://github.com/vsoika",
+        "role": "Front-end распрацоўшчык"
+    }
+}

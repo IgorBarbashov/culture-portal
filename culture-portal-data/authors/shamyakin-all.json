@@ -1,0 +1,416 @@
+"4": {
+  "be": {
+      "name": "Іван Пятровіч Шамякін",
+      "video": "https://youtu.be/ddMAfJFjzew",
+      "works": [
+          {
+              "endAt": null,
+              "genre": "Pассказ",
+              "title": "У снежнай пустыні",
+              "startAt": "1944"
+          },
+          {
+              "endAt": null,
+              "genre": "аповесць",
+              "title": "Помста",
+              "startAt": "1949"
+          },
+          {
+              "endAt": null,
+              "genre": "раман",
+              "title": "У добры час",
+              "startAt": "1953"
+          },
+          {
+              "endAt": null,
+              "genre": "раман",
+              "title": "Крыніцы",
+              "startAt": "1957"
+          },
+          {
+              "endAt": null,
+              "genre": "п'еса",
+              "title": "Не верце цішыні",
+              "startAt": "1958"
+          },
+          {
+              "endAt": null,
+              "genre": "зборнік прозы",
+              "title": "матчыны рукі",
+              "startAt": "1961"
+          },
+          {
+              "endAt": null,
+              "genre": "раман",
+              "title": "Сэрца на лодони",
+              "startAt": "1964"
+          },
+          {
+              "endAt": null,
+              "genre": "раман",
+              "title": "снежныя зімы",
+              "startAt": "1968"
+          },
+          {
+              "endAt": null,
+              "genre": "раман",
+              "title": "Атланты і карыятыды",
+              "startAt": "1974"
+          },
+          {
+              "endAt": null,
+              "genre": "п'еса",
+              "title": "І яны перасталі чуць птушкі",
+              "startAt": "1977"
+          }
+      ],
+      "location": {
+          "latitude": 27.5618791,
+          "longitude": 53.902334
+      },
+      "nativeId": 4,
+      "biography": [
+          {
+              "endAt": null,
+              "startAt": "1921",
+              "description": "Нарадзіўся ў вёсцы Карма Гомельскага павета Гомельскай губерні ў сялянскай сям'і"
+          },
+          {
+              "endAt": null,
+              "startAt": "1936",
+              "description": "Скончыў сем класаў Макоўскай школы"
+          },
+          {
+              "endAt": "1940",
+              "startAt": "1936",
+              "description": "Вучобу ў Гомельскім тэхнікуме будаўнічых матэрыялаў"
+          },
+          {
+              "endAt": null,
+              "startAt": "1940",
+              "description": "Быў прызваны ў Рабоча-сялянскую Чырвоную армію, праходзіў службу ў Мурманску ў зенітна-артылерыйскай частцы."
+          },
+          {
+              "endAt": null,
+              "startAt": "1944",
+              "description": "Перадыслакаваны ў Польшчу, прымаў удзел у Вісла-Одэрская аперацыі і ў Берлінскай наступальнай аперацыі ў складзе прожекторных роты"
+          },
+          {
+              "endAt": "1947",
+              "startAt": "1945",
+              "description": "Працаваў выкладчыкам мовы і літаратуры няпоўнай сярэдняй школы ў вёсцы Прокоповка Церахоўскі раёна"
+          },
+          {
+              "endAt": "1950",
+              "startAt": "1948",
+              "description": "Вучыўся ў Рэспубліканскай партыйнай школе."
+          },
+          {
+              "endAt": null,
+              "startAt": "с 1954",
+              "description": "Працаваў намеснікам Старшыні праўлення Саюза Пісьменнікаў БССР."
+          },
+          {
+              "endAt": "1985",
+              "startAt": "1963",
+              "description": "Дэпутат Вярхоўнага Савета БССР"
+          },
+          {
+              "endAt": "1985",
+              "startAt": "1971",
+              "description": "Старшыня Вярхоўнага Савета БССР"
+          },
+          {
+              "endAt": "1989",
+              "startAt": "1980",
+              "description": "Дэпутат Вярхоўнага Савета СССР"
+          },
+          {
+              "endAt": "1992",
+              "startAt": "1980",
+              "description": "Галоўны рэдактар ​​выдавецтва «Беларуская савецкая энцыклапедыя»"
+          }
+      ],
+      "birthCity": "корму",
+      "birthDate": "1921-01-30",
+      "deathDate": "2004-10-14",
+      "description": "Іван Пятровіч Шамякін - беларускі савецкі пісьменнік, сцэнарыст і драматург, грамадскі дзеяч.",
+      "nativeImage": "Shamyakin"
+  },
+  "en": {
+      "name": "Ivan Petrovich Shamyakin",
+      "video": "https://youtu.be/ddMAfJFjzew",
+      "works": [
+          {
+              "endAt": null,
+              "genre": "A story",
+              "title": "In the snowy desert",
+              "startAt": "1944"
+          },
+          {
+              "endAt": null,
+              "genre": "Story",
+              "title": "Pomsta",
+              "startAt": "1949"
+          },
+          {
+              "endAt": null,
+              "genre": "Novel",
+              "title": "Good afternoon",
+              "startAt": "1953"
+          },
+          {
+              "endAt": null,
+              "genre": "Novel",
+              "title": "Krinitsy",
+              "startAt": "1957"
+          },
+          {
+              "endAt": null,
+              "genre": "Play",
+              "title": "Don't believe the silence",
+              "startAt": "1958"
+          },
+          {
+              "endAt": null,
+              "genre": "Prose Collection",
+              "title": "Maternal hands",
+              "startAt": "1961"
+          },
+          {
+              "endAt": null,
+              "genre": "Novel",
+              "title": "Heart on palm",
+              "startAt": "1964"
+          },
+          {
+              "endAt": null,
+              "genre": "Novel",
+              "title": "Snowy winters",
+              "startAt": "1968"
+          },
+          {
+              "endAt": null,
+              "genre": "Novel",
+              "title": "Atlantes and Caryatids",
+              "startAt": "1974"
+          },
+          {
+              "endAt": null,
+              "genre": "Play",
+              "title": "And the birds died down",
+              "startAt": "1977"
+          }
+      ],
+      "location": {
+          "latitude": 27.5618791,
+          "longitude": 53.902334
+      },
+      "nativeId": 4,
+      "biography": [
+          {
+              "endAt": null,
+              "startAt": "1921",
+              "description": "Born in the village of Korma in the Gomel county of the Gomel province in a peasant family"
+          },
+          {
+              "endAt": null,
+              "startAt": "1936",
+              "description": "He graduated from the seven classes of the Makovsky school"
+          },
+          {
+              "endAt": "1940",
+              "startAt": "1936",
+              "description": "Studying at the Gomel College of Building Materials"
+          },
+          {
+              "endAt": null,
+              "startAt": "1940",
+              "description": "He was drafted into the Workers 'and Peasants' Red Army, served in Murmansk in the anti-aircraft artillery unit."
+          },
+          {
+              "endAt": null,
+              "startAt": "1944",
+              "description": "Relocated to Poland, took part in the Wisło-Oder operation and in the Berlin offensive operation as part of a searchlight company"
+          },
+          {
+              "endAt": "1947",
+              "startAt": "1945",
+              "description": "He worked as a teacher of language and literature of an incomplete secondary school in the village of Prokopovka in the Terekhov district"
+          },
+          {
+              "endAt": "1950",
+              "startAt": "1948",
+              "description": "Studied at the Republican Party School."
+          },
+          {
+              "endAt": null,
+              "startAt": "since 1954",
+              "description": "He worked as Deputy Chairman of the Board of the Union of Writers of the BSSR."
+          },
+          {
+              "endAt": "1985",
+              "startAt": "1963",
+              "description": "Member of the Supreme Council of the BSSR"
+          },
+          {
+              "endAt": "1985",
+              "startAt": "1971",
+              "description": "Chairman of the Supreme Council of the BSSR"
+          },
+          {
+              "endAt": "1989",
+              "startAt": "1980",
+              "description": "Member of the Supreme Council of the USSR"
+          },
+          {
+              "endAt": "1992",
+              "startAt": "1980",
+              "description": "Editor-in-chief of the Belarusian Soviet Encyclopedia Publishing House"
+          }
+      ],
+      "birthCity": "Stern",
+      "birthDate": "1921-01-30",
+      "deathDate": "2004-10-14",
+      "description": "Ivan Petrovich Shamyakin - Belarusian Soviet writer, screenwriter and playwright, public figure.",
+      "nativeImage": "Shamyakin"
+  },
+  "ru": {
+      "name": "Иван Петрович Шамякин",
+      "video": "https://youtu.be/ddMAfJFjzew",
+      "works": [
+          {
+              "endAt": null,
+              "genre": "Pассказ",
+              "title": "В снежной пустыне",
+              "startAt": "1944"
+          },
+          {
+              "endAt": null,
+              "genre": "Повесть",
+              "title": "Помста",
+              "startAt": "1949"
+          },
+          {
+              "endAt": null,
+              "genre": "Роман",
+              "title": "В добрый час",
+              "startAt": "1953"
+          },
+          {
+              "endAt": null,
+              "genre": "Роман",
+              "title": "Криницы",
+              "startAt": "1957"
+          },
+          {
+              "endAt": null,
+              "genre": "Пьеса",
+              "title": "Не верьте тишине",
+              "startAt": "1958"
+          },
+          {
+              "endAt": null,
+              "genre": "Сборник прозы",
+              "title": "Материнские руки",
+              "startAt": "1961"
+          },
+          {
+              "endAt": null,
+              "genre": "Роман",
+              "title": "Сердце на лодони",
+              "startAt": "1964"
+          },
+          {
+              "endAt": null,
+              "genre": "Роман",
+              "title": "Снежные зимы",
+              "startAt": "1968"
+          },
+          {
+              "endAt": null,
+              "genre": "Роман",
+              "title": "Атланты и кариатиды",
+              "startAt": "1974"
+          },
+          {
+              "endAt": null,
+              "genre": "Пьеса",
+              "title": "И стихли птицы",
+              "startAt": "1977"
+          }
+      ],
+      "location": {
+          "latitude": 27.5618791,
+          "longitude": 53.902334
+      },
+      "nativeId": 4,
+      "biography": [
+          {
+              "endAt": null,
+              "startAt": "1921",
+              "description": "Родился в деревне Корма Гомельского уезда Гомельской губернии в крестьянской семье"
+          },
+          {
+              "endAt": null,
+              "startAt": "1936",
+              "description": "Окончил семь классов Маковской школы"
+          },
+          {
+              "endAt": "1940",
+              "startAt": "1936",
+              "description": "Учёбу в Гомельском техникуме строительных материалов"
+          },
+          {
+              "endAt": null,
+              "startAt": "1940",
+              "description": "Был призван в Рабоче-крестьянскую Красную армию, проходил службу в Мурманске в зенитно-артиллерийской части."
+          },
+          {
+              "endAt": null,
+              "startAt": "1944",
+              "description": "Передислоцирован в Польшу, принимал участие в Висло-Одерской операции и в Берлинской наступательной операции в составе прожекторной роты"
+          },
+          {
+              "endAt": "1947",
+              "startAt": "1945",
+              "description": "Работал преподавателем языка и литературы неполной средней школы в деревне Прокоповка Тереховского района"
+          },
+          {
+              "endAt": "1950",
+              "startAt": "1948",
+              "description": "Учился в Республиканской партийной школе."
+          },
+          {
+              "endAt": null,
+              "startAt": "с 1954",
+              "description": "Работал заместителем Председателя правления Союза Писателей БССР."
+          },
+          {
+              "endAt": "1985",
+              "startAt": "1963",
+              "description": "Депутат Верховного Совета БССР"
+          },
+          {
+              "endAt": "1985",
+              "startAt": "1971",
+              "description": "Председатель Верховного Совета БССР"
+          },
+          {
+              "endAt": "1989",
+              "startAt": "1980",
+              "description": "Депутат Верховного Совета СССР"
+          },
+          {
+              "endAt": "1992",
+              "startAt": "1980",
+              "description": "Главный редактор издательства «Белорусская советская энциклопедия»"
+          }
+      ],
+      "birthCity": "Корма",
+      "birthDate": "1921-01-30",
+      "deathDate": "2004-10-14",
+      "description": "Иван Петрович Шамякин —  белорусский советский писатель, сценарист и драматург, общественный деятель.",
+      "nativeImage": "Shamyakin"
+  }
+}

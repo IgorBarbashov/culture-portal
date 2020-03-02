@@ -1,0 +1,23 @@
+{
+    "en": {
+        "nativeId": "5",
+        "nativeImage": "assets/images/Gusev.jpeg",
+        "name": "Vasily Gusev",
+        "link": "https://github.com/Guseff",
+        "role": "Front-end developer"
+    },
+    "ru": {
+        "nativeId": "5",
+        "nativeImage": "assets/images/Gusev.jpeg",
+        "name": "Василий Гусев",
+        "link": "https://github.com/Guseff",
+        "role": "Фронтенд-разработчик"
+    },
+    "be": {
+        "nativeId": "5",
+        "nativeImage": "assets/images/Gusev.jpeg",
+        "name": "Васіль Гусеў",
+        "link": "https://github.com/Guseff",
+        "role": "Front-end распрацоўшчык"
+    }
+}

@@ -1,0 +1,129 @@
+{
+  "nativeId": 1,
+  "nativeImage": "Korotkevich",
+  "name": "Vladimir Semenovich Korotkevich",
+  "birthDate": "1930-11-26",
+  "deathDate": "1984-07-25",
+  "birthCity": "Orsha",
+  "description": "Belarusian Soviet writer, poet, playwright, screenwriter and publicist, classic of Belarusian literature. It is one of the most striking figures in Belarusian literature of the 20th century. He became the first Belarusian writer to turn to the genre of historical detective story.",
+  "video": "https://youtu.be/Dpk0KkuAYFE",
+  "activityPlace": {
+    "longitude": 54.5119008,
+    "latitude": 30.4254486
+  },
+  "biography": [
+    {
+      "startAt": "1930",
+      "endAt": null,
+      "description": "Born in the city of Orsha in the Vitebsk region in the family of an accountant."
+    },
+    {
+      "startAt": "1949",
+      "endAt": "1954",
+      "description": "Graduated from the philological faculty of T.G. Shevchenko"
+    },
+    {
+      "startAt": "1951",
+      "endAt": null,
+      "description": "He made his debut as a poet, published two poems in the Orsha district newspaper “Leninsky Call”: “There will be a channel” (in Russian) and “Yakubu Kolasu” (in Belarusian)"
+    },
+    {
+      "startAt": "1955",
+      "endAt": null,
+      "description": "He passed the candidate minimum exams and began writing a dissertation about the uprising of 1863, but he did not finish it. At the same time, the idea came of writing a novel on the same topic.."
+    },
+    {
+      "startAt": "1957",
+      "endAt": null,
+      "description": "Member of the Union of Writers of the USSR"
+    },
+    {
+      "startAt": "1954",
+      "endAt": "1958",
+      "description": "He worked as a school teacher of Russian language and literature in the village of Lesovichi (Ukraine), in his hometown, Orsha."
+    },
+    {
+      "startAt": "1958",
+      "endAt": "1962",
+      "description": "He graduated from the Higher Literary Courses, during which he became interested in cinema and began working on scripts, as well as screenwriting courses at the Institute of Cinematography in Moscow, which, like Kiev, had a serious impact on the formation of Korotkevich as a person and artist of the word"
+    },
+    {
+      "startAt": "1957",
+      "endAt": "1984",
+      "description": "Creative activity of the poet. The main theme of the writer's work is the history of his native land, its romantic and legendary comprehension. Korotkevich also wrote several plays, scripts for feature films, a large number of essays, essays and articles."
+    },
+    {
+      "startAt": "1983",
+      "endAt": null,
+      "description": "Received the award of the Ivan Melezh Union of Writers of Belarus for the novel “You Can’t Forget” (“Leonids Will Not Return to Earth”)."
+    }
+  ],
+  "works": [
+    {
+      "startAt": "1958",
+      "endAt": null,
+      "genre": "Collection of poems",
+      "title": "Mother soul"
+    },
+    {
+      "startAt": "1958",
+      "endAt": null,
+      "genre": "Story",
+      "title": "The Wild Hunt of King Stach"
+    },
+    {
+      "startAt": "1960",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Gray legend"
+    },
+    {
+      "startAt": "1960",
+      "endAt": "1962",
+      "genre": "Novel",
+      "title": "Leonids will not return to Earth (Do not forget)"
+    },
+    {
+      "startAt": "1962",
+      "endAt": "1964",
+      "genre": "Novel",
+      "title": "Spikes under your sickle"
+    },
+    {
+      "startAt": "1963",
+      "endAt": null,
+      "genre": "Play",
+      "title": "Kastus Kalinovsky"
+    },
+    {
+      "startAt": "1965",
+      "endAt": "1966",
+      "genre": "Novel",
+      "title": "Christ landed in Grodno"
+    },
+    {
+      "startAt": "1973",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Chestnut leaves"
+    },
+    {
+      "startAt": "1977",
+      "endAt": null,
+      "genre": "Feature article",
+      "title": "Earth under the white wings"
+    },
+    {
+      "startAt": "1978",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Rook of Despair"
+    },
+    {
+      "startAt": "1979",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Black Castle Olshansky"
+    }
+  ]
+}

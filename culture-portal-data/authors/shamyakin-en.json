@@ -1,0 +1,138 @@
+{
+  "nativeId": 4,
+  "nativeImage": "Shamyakin",
+  "name": "Ivan Petrovich Shamyakin",
+  "birthDate": "1921-01-30",
+  "deathDate": "2004-10-14",
+  "birthCity": "Stern",
+  "video": "https://youtu.be/ddMAfJFjzew",
+  "location": {
+    "longitude": 53.902334,
+    "latitude": 27.5618791
+  },
+  "description": "Ivan Petrovich Shamyakin - Belarusian Soviet writer, screenwriter and playwright, public figure.",
+  "biography": [
+    {
+      "startAt": "1921",
+      "endAt": null,
+      "description": "Born in the village of Korma in the Gomel county of the Gomel province in a peasant family"
+    },
+    {
+      "startAt": "1936",
+      "endAt": null,
+      "description": "He graduated from the seven classes of the Makovsky school"
+    },
+    {
+      "startAt": "1936",
+      "endAt": "1940",
+      "description": "Studying at the Gomel College of Building Materials"
+    },
+    {
+      "startAt": "1940",
+      "endAt": null,
+      "description": "He was drafted into the Workers 'and Peasants' Red Army, served in Murmansk in the anti-aircraft artillery unit."
+    },
+    {
+      "startAt": "1944",
+      "endAt": null,
+      "description": "Relocated to Poland, took part in the Wisło-Oder operation and in the Berlin offensive operation as part of a searchlight company"
+    },
+    {
+      "startAt": "1945",
+      "endAt": "1947",
+      "description": "He worked as a teacher of language and literature of an incomplete secondary school in the village of Prokopovka in the Terekhov district"
+    },
+    {
+      "startAt": "1948",
+      "endAt": "1950",
+      "description": "Studied at the Republican Party School."
+    },
+    {
+      "startAt": "since 1954",
+      "endAt": null,
+      "description": "He worked as Deputy Chairman of the Board of the Union of Writers of the BSSR."
+    },
+    {
+      "startAt": "1963",
+      "endAt": "1985",
+      "description": "Member of the Supreme Council of the BSSR"
+    },
+    {
+      "startAt": "1971",
+      "endAt": "1985",
+      "description": "Chairman of the Supreme Council of the BSSR"
+    },
+    {
+      "startAt": "1980",
+      "endAt": "1989",
+      "description": "Member of the Supreme Council of the USSR"
+    },
+    {
+      "startAt": "1980",
+      "endAt": "1992",
+      "description": "Editor-in-chief of the Belarusian Soviet Encyclopedia Publishing House"
+    }
+  ],
+  "works": [
+    {
+      "startAt": "1944",
+      "endAt": null,
+      "genre": "A story",
+      "title": "In the snowy desert"
+    },
+    {
+      "startAt": "1949",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Pomsta"
+    },
+    {
+      "startAt": "1953",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Good afternoon"
+    },
+    {
+      "startAt": "1957",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Krinitsy"
+    },
+    {
+      "startAt": "1958",
+      "endAt": null,
+      "genre": "Play",
+      "title": "Don't believe the silence"
+    },
+    {
+      "startAt": "1961",
+      "endAt": null,
+      "genre": "Prose Collection",
+      "title": "Maternal hands"
+    },
+    {
+      "startAt": "1964",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Heart on palm"
+    },
+    {
+      "startAt": "1968",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Snowy winters"
+    },
+    {
+      "startAt": "1974",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Atlantes and Caryatids"
+    },
+    {
+      "startAt": "1977",
+      "endAt": null,
+      "genre": "Play",
+      "title": "And the birds died down"
+    }
+  ]
+}

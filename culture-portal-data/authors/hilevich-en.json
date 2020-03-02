@@ -1,0 +1,101 @@
+{
+  "nativeId": 7,
+  "nativeImage": "Hilevich",
+  "name": "Neil Gilevich",
+  "birthDate": "1931-09-30",
+  "deathDate": "2016-03-29",
+  "birthCity": "Sloboda",
+  "video": "https://youtu.be/sWPk3sk6m6k",
+  "location": {
+    "longitude": 53.902334,
+    "latitude": 27.5618791
+  },
+  "description": "Neil Semenovich Gilevich - Soviet and Belarusian writer, translator, literary critic, folklorist, public figure.",
+  "biography": [
+    {
+      "startAt": "1931",
+      "endAt": null,
+      "description": "Born in the village of Sloboda, Logoisk district, Minsk region in a peasant family."
+    },
+    {
+      "startAt": "1951",
+      "endAt": null,
+      "description": "Graduated from Minsk Pedagogical College named after N.K. Krupskaya"
+    },
+    {
+      "startAt": "1956",
+      "endAt": null,
+      "description": "ОкHe graduated from the philological faculty of the Belarusian State University and graduate school with him."
+    },
+    {
+      "startAt": "1958",
+      "endAt": "1963",
+      "description": "He worked as a literary consultant for the newspaper «Zvyazda»."
+    },
+    {
+      "startAt": "1960",
+      "endAt": "1986",
+      "description": "He worked at the Department of Belarusian Literature of BSU."
+    },
+    {
+      "startAt": "1980",
+      "endAt": "1989",
+      "description": "First Secretary of the Board of the Union of Writers of the Belarusian SSR."
+    },
+    {
+      "startAt": "since 1989",
+      "endAt": null,
+      "description": "Chairman of the Belarusian Language Society Francis Skorina, editor-in-chief of the newsletter of this organization, «Our Words»."
+    }
+  ],
+  "works": [
+    {
+      "startAt": "1957",
+      "endAt": null,
+      "genre": "Poetry",
+      "title": "Song on the road"
+    },
+    {
+      "startAt": "1961",
+      "endAt": null,
+      "genre": "Poetry",
+      "title": "Anxiety"
+    },
+    {
+      "startAt": "1963",
+      "endAt": null,
+      "genre": "Poetry",
+      "title": "Green Island"
+    },
+    {
+      "startAt": "1974",
+      "endAt": null,
+      "genre": "Poetry",
+      "title": "Mermaid on Naroch"
+    },
+    {
+      "startAt": "1979",
+      "endAt": null,
+      "genre": "Poetry",
+      "title": "In good agreement"
+    },
+    {
+      "startAt": "1985",
+      "endAt": null,
+      "genre": "Novel in verse",
+      "title": "Native children"
+    },
+    {
+      "startAt": "1987",
+      "endAt": null,
+      "genre": "Poetry",
+      "title": "Good person"
+    },
+    {
+      "startAt": "1988",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Surviving the war"
+    }
+  ]
+}

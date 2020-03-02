@@ -1,0 +1,467 @@
+{
+    "be": {
+        "name": "Васіль Быкаў",
+        "video": "N2tOCg7lROk",
+        "works": [
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "Апошні баец",
+                "startAt": "1957"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "Жураўліны крык",
+                "startAt": "1959"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "Альпійская балада",
+                "startAt": "1963"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "Мёртвым не баліць",
+                "startAt": "1965"
+            },
+            {
+                "endAt": null,
+                "genre": "аповяд",
+                "title": "свае людзі",
+                "startAt": "1966"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "сцюжа",
+                "startAt": "1969"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "абеліск",
+                "startAt": "1971"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "Дажыць да світання",
+                "startAt": "1972"
+            },
+            {
+                "endAt": null,
+                "genre": "аповяд",
+                "title": "На ўзыходзе сонца",
+                "startAt": "1975"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "Знак бяды",
+                "startAt": "1982"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "У тумане",
+                "startAt": "1987"
+            }
+        ],
+        "location": {
+            "latitude": 23.8342648,
+            "longitude": 53.6834599
+        },
+        "nativeId": 6,
+        "biography": [
+            {
+                "endAt": null,
+                "startAt": "1924",
+                "description": "Нарадзіўся ў вёсцы Бычкі Ушацкага раёна Віцебскай вобласці ў сялянскай сям'і."
+            },
+            {
+                "endAt": "1940",
+                "startAt": "1939",
+                "description": "Вучыўся на скульптурным аддзяленьні Віцебскай мастацкай вучэльні, якое пакінуў з-за адмены стыпендый"
+            },
+            {
+                "endAt": "1942",
+                "startAt": "1941",
+                "description": "Жыў на ст. Салтыковка і ў горадзе Аткарск Саратаўскай вобласці, вучыўся ў чыгуначнай школе."
+            },
+            {
+                "endAt": null,
+                "startAt": "1942",
+                "description": "Прызваны ў армію"
+            },
+            {
+                "endAt": null,
+                "startAt": "1943",
+                "description": "Прысвоена званне малодшага лейтэнанта. Удзельнічаў у баях за Крывы Рог, Александрыю, Знаменка. Падчас Кіраваградскай аперацыі паранены ў нагу і жывот"
+            },
+            {
+                "endAt": "1947",
+                "startAt": "1944",
+                "description": "З дзеючай арміяй прайшоў па Балгарыі, Венгрыі, Югаславіі, Аўстрыі; старшы лейтэнант, камандзір узвода палкавой, затым армейскай артылерыі."
+            },
+            {
+                "endAt": "1949",
+                "startAt": "1974",
+                "description": "Жыў у Гродне. Працаваў у майстэрнях, а таксама ў рэдакцыі абласной газеты «Гродзенская праўда»"
+            },
+            {
+                "endAt": "1955",
+                "startAt": "1949",
+                "description": "Служба ў Савецкай арміі"
+            },
+            {
+                "endAt": "1972",
+                "startAt": "1955",
+                "description": "Працаваў у «Гродненской правде»"
+            },
+            {
+                "endAt": null,
+                "startAt": "1959",
+                "description": "Член Саюза пісьменнікаў СССР"
+            },
+            {
+                "endAt": null,
+                "startAt": "1978",
+                "description": "Пераехаў у Мінск"
+            },
+            {
+                "endAt": "1989",
+                "startAt": "1978",
+                "description": "Абіраўся дэпутатам Вярхоўнага Савета Беларускай ССР"
+            },
+            {
+                "endAt": null,
+                "startAt": "с 1997",
+                "description": "Жыў за мяжой у палітычнай эміграцыі"
+            },
+            {
+                "endAt": null,
+                "startAt": "2003",
+                "description": "Вярнуўся на радзіму."
+            }
+        ],
+        "birthCity": "Бычкi",
+        "birthDate": "1924-06-19",
+        "deathDate": "2003-06-22",
+        "description": "Васіль Уладзіміравіч Быкаў - беларускі пісьменнік, грамадскі дзеяч, удзельнік Вялікай Айчыннай вайны. Большасць твораў - аповесці, дзеянне якіх адбываецца ў час Вялікай Айчыннай вайны і ў якіх паказаны маральны выбар чалавека ў найбольш драматычныя моманты жыцця.",
+        "nativeImage": "Bykov",
+        "videoFullUrl": "https://youtu.be/N2tOCg7lROk"
+    },
+    "en": {
+        "name": "Vasil Bykov",
+        "video": "N2tOCg7lROk",
+        "works": [
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "Last fighter",
+                "startAt": "1957"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "Crane scream",
+                "startAt": "1959"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "Alpine ballad",
+                "startAt": "1963"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "It doesn't hurt the dead",
+                "startAt": "1965"
+            },
+            {
+                "endAt": null,
+                "genre": "Рассказ",
+                "title": "Our people",
+                "startAt": "1966"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "Cold",
+                "startAt": "1969"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "Obelisk",
+                "startAt": "1971"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "Survive until dawn",
+                "startAt": "1972"
+            },
+            {
+                "endAt": null,
+                "genre": "Рассказ",
+                "title": "At sunrise",
+                "startAt": "1975"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "Sign of trouble",
+                "startAt": "1982"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "In the fog",
+                "startAt": "1987"
+            }
+        ],
+        "location": {
+            "latitude": 23.8342648,
+            "longitude": 53.6834599
+        },
+        "nativeId": 6,
+        "biography": [
+            {
+                "endAt": null,
+                "startAt": "1924",
+                "description": "Born in the village of Bychki, Ushachsky district, Vitebsk region in a peasant family."
+            },
+            {
+                "endAt": "1940",
+                "startAt": "1939",
+                "description": "He studied at the sculpture department of the Vitebsk art school, which he left due to the cancellation of scholarships"
+            },
+            {
+                "endAt": "1942",
+                "startAt": "1941",
+                "description": "He lived at the station. Saltykovka and in the city of Atkarsk, Saratov region, studied at a railway school."
+            },
+            {
+                "endAt": null,
+                "startAt": "1942",
+                "description": "Drafted into the army"
+            },
+            {
+                "endAt": null,
+                "startAt": "1943",
+                "description": "Assigned the rank of second lieutenant. Participated in the battles of Krivoy Rog, Alexandria, Znamenka. During the Kirovograd operation wounded in the leg and stomach"
+            },
+            {
+                "endAt": "1947",
+                "startAt": "1944",
+                "description": "With the army he went through Bulgaria, Hungary, Yugoslavia, Austria; senior lieutenant, commander of a platoon of regimental, then army artillery."
+            },
+            {
+                "endAt": "1949",
+                "startAt": "1974",
+                "description": "He lived in Grodno. He worked in workshops, as well as in the editorial office of the regional newspaper «Grodno Pravda»"
+            },
+            {
+                "endAt": "1955",
+                "startAt": "1949",
+                "description": "Service in the Soviet Army"
+            },
+            {
+                "endAt": "1972",
+                "startAt": "1955",
+                "description": "Service in the «Soviet Army»"
+            },
+            {
+                "endAt": null,
+                "startAt": "1959",
+                "description": "Member of the Union of Writers of the USSR"
+            },
+            {
+                "endAt": null,
+                "startAt": "1978",
+                "description": "Moved to Minsk"
+            },
+            {
+                "endAt": "1989",
+                "startAt": "1978",
+                "description": "He was elected as a deputy of the Supreme Council of the Belarusian SSR"
+            },
+            {
+                "endAt": null,
+                "startAt": "since 1997",
+                "description": "He lived abroad in political emigration"
+            },
+            {
+                "endAt": null,
+                "startAt": "2003",
+                "description": "He returned to his homeland."
+            }
+        ],
+        "birthCity": "Bychki",
+        "birthDate": "1924-06-19",
+        "deathDate": "2003-06-22",
+        "description": "Vasil Vladimirovich Bykov - Soviet and Belarusian writer, public figure, participant in the Great Patriotic War. Most of the works are novels, the action of which takes place during the Great Patriotic War and which shows the moral choice of a person in the most dramatic moments of life.",
+        "nativeImage": "Bykov",
+        "videoFullUrl": "https://youtu.be/N2tOCg7lROk"
+    },
+    "ru": {
+        "name": "Василь Быков",
+        "video": "N2tOCg7lROk",
+        "works": [
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Последний боец",
+                "startAt": "1957"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Журавлиный крик",
+                "startAt": "1959"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Альпийская баллада",
+                "startAt": "1963"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Мёртвым не больно",
+                "startAt": "1965"
+            },
+            {
+                "endAt": null,
+                "genre": "Рассказ",
+                "title": "Свои люди",
+                "startAt": "1966"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Стужа",
+                "startAt": "1969"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Обелиск",
+                "startAt": "1971"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Дожить до рассвета",
+                "startAt": "1972"
+            },
+            {
+                "endAt": null,
+                "genre": "Рассказ",
+                "title": "На восходе солнца",
+                "startAt": "1975"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Знак беды",
+                "startAt": "1982"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "В тумане",
+                "startAt": "1987"
+            }
+        ],
+        "location": {
+            "latitude": 23.8342648,
+            "longitude": 53.6834599
+        },
+        "nativeId": 6,
+        "biography": [
+            {
+                "endAt": null,
+                "startAt": "1924",
+                "description": "Родился в деревне Бычки Ушачского района Витебской области в крестьянской семье."
+            },
+            {
+                "endAt": "1940",
+                "startAt": "1939",
+                "description": "Учился на скульптурном отделении Витебского художественного училища, которое оставил из-за отмены стипендий"
+            },
+            {
+                "endAt": "1942",
+                "startAt": "1941",
+                "description": "Жил на ст. Салтыковка и в городе Аткарске Саратовской области, учился в железнодорожной школе."
+            },
+            {
+                "endAt": null,
+                "startAt": "1942",
+                "description": "Призван в армию"
+            },
+            {
+                "endAt": null,
+                "startAt": "1943",
+                "description": "Присвоено звание младшего лейтенанта. Участвовал в боях за Кривой Рог, Александрию, Знаменку. Во время Кировоградской операции ранен в ногу и живот"
+            },
+            {
+                "endAt": "1947",
+                "startAt": "1944",
+                "description": "С действующей армией прошёл по Болгарии, Венгрии, Югославии, Австрии; старший лейтенант, командир взвода полковой, затем армейской артиллерии."
+            },
+            {
+                "endAt": "1949",
+                "startAt": "1974",
+                "description": "Жил в Гродно. Работал в мастерских, а также в редакции областной газеты «Гродненская правда»"
+            },
+            {
+                "endAt": "1955",
+                "startAt": "1949",
+                "description": "Служба в Советской армии"
+            },
+            {
+                "endAt": "1972",
+                "startAt": "1955",
+                "description": "Работал в «Гродненской правде»"
+            },
+            {
+                "endAt": null,
+                "startAt": "1959",
+                "description": "Член Союза писателей СССР"
+            },
+            {
+                "endAt": null,
+                "startAt": "1978",
+                "description": "Переехал в Минск"
+            },
+            {
+                "endAt": "1989",
+                "startAt": "1978",
+                "description": "Избирался депутатом Верховного Совета Белорусской ССР"
+            },
+            {
+                "endAt": null,
+                "startAt": "с 1997",
+                "description": "Жил за границей в политической эмиграции"
+            },
+            {
+                "endAt": null,
+                "startAt": "2003",
+                "description": "Вернулся на родину."
+            }
+        ],
+        "birthCity": "Бычки",
+        "birthDate": "1924-06-19",
+        "deathDate": "2003-06-22",
+        "description": "Василь Владимирович Быков — советский и белорусский писатель, общественный деятель, участник Великой Отечественной войны. Большинство произведений — повести, действие которых происходит во время Великой Отечественной войны и в которых показан нравственный выбор человека в наиболее драматичные моменты жизни.",
+        "nativeImage": "Bykov",
+        "videoFullUrl": "https://youtu.be/N2tOCg7lROk"
+    }
+}

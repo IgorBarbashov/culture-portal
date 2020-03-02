@@ -1,0 +1,392 @@
+{
+    "be": {
+        "name": "Уладзімір Сямёнавіч Караткевіч",
+        "video": "Dpk0KkuAYFE",
+        "works": [
+            {
+                "endAt": null,
+                "genre": "зборнік вершаў",
+                "title": "матчына душа",
+                "startAt": "1958"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "Дзікае паляванне караля Стаха",
+                "startAt": "1958"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "сівая легенда",
+                "startAt": "1960"
+            },
+            {
+                "endAt": "1962",
+                "genre": "раман",
+                "title": "Леаніды не вернуцца да Зямлі (Нельга забыць)",
+                "startAt": "1960"
+            },
+            {
+                "endAt": "1964",
+                "genre": "раман",
+                "title": "Каласы пад сярпом тваім",
+                "startAt": "1962"
+            },
+            {
+                "endAt": null,
+                "genre": "п'еса",
+                "title": "Кастусь Каліноўскі",
+                "startAt": "1963"
+            },
+            {
+                "endAt": "1966",
+                "genre": "раман",
+                "title": "Хрыстос прызямліўся ў Гародні",
+                "startAt": "1965"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "лісце каштанаў",
+                "startAt": "1973"
+            },
+            {
+                "endAt": null,
+                "genre": "нарыс",
+                "title": "Зямля пад белымі крыламі",
+                "startAt": "1977"
+            },
+            {
+                "endAt": null,
+                "genre": "аповесць",
+                "title": "ладдзя Роспачы",
+                "startAt": "1978"
+            },
+            {
+                "endAt": null,
+                "genre": "раман",
+                "title": "Чорны замак Альшанскі",
+                "startAt": "1979"
+            }
+        ],
+        "location": {
+            "latitude": 30.4254486,
+            "longitude": 54.5119008
+        },
+        "nativeId": 1,
+        "biography": [
+            {
+                "endAt": null,
+                "startAt": "1930",
+                "description": "Нарадзіўся ў горадзе Орша Віцебскай вобласці ў сям'і бухгалтара."
+            },
+            {
+                "endAt": "1954",
+                "startAt": "1949",
+                "description": "Скончыў філалагічны факультэт Кіеўскага ўніверсітэта імя Т.Г. Шаўчэнка"
+            },
+            {
+                "endAt": null,
+                "startAt": "1951",
+                "description": "Дэбютаваў як паэт, апублікаваў у аршанскай раённай газеце «Ленінскі прызыў» два вершы: «Тут будзе канал» (на рускай мове) і «Якубу Коласу» (на беларускай мове)"
+            },
+            {
+                "endAt": null,
+                "startAt": "1955",
+                "description": "Cдал экзамены кандыдацкага мінімуму і прыступіў да напісання дысертацыі пра паўстанне 1863 года, але так яе і не скончыў. У той жа час прыйшла і ідэя аб напісанні рамана на гэтую ж тэму."
+            },
+            {
+                "endAt": null,
+                "startAt": "1957",
+                "description": "Член Саюза пісьменнікаў СССР"
+            },
+            {
+                "endAt": "1958",
+                "startAt": "1954",
+                "description": "Hаботал школьным настаўнікам рускай мовы і літаратуры ў вёсцы Лясовічамі (Украіна), у родным горадзе, Воршы."
+            },
+            {
+                "endAt": "1962",
+                "startAt": "1958",
+                "description": "Скончыў Вышэйшыя літаратурныя курсы, падчас якіх захапіўся кіно і пачаў працу над сцэнарамі, а таксама сцэнарныя курсы ў Інстытуце кінематаграфіі ў Маскве, якая, як і Кіеў, аказала сур'ёзны ўплыў на фарміраванне Караткевіча як асобы і мастака слова"
+            },
+            {
+                "endAt": "1984",
+                "startAt": "1957",
+                "description": "Творчая дзейнасць паэта. Асноўная тэма творчасці пісьменніка - гісторыя роднага краю, яе рамантычна-легендарнае асэнсаванне. Караткевіч таксама напісаў некалькі п'ес, сцэнарыяў для мастацкіх фільмаў, вялікая колькасць эсэ, нарысаў і артыкулаў."
+            },
+            {
+                "endAt": null,
+                "startAt": "1983",
+                "description": "Атрымаў прэмію Саюза пісьменнікаў Беларусі імя Івана Мележа за раман «Нельга забыць» («Леаніды не вернуцца да Зямлі»)."
+            }
+        ],
+        "birthCity": "Орша",
+        "birthDate": "1930-11-26",
+        "deathDate": "1984-07-25",
+        "description": "Беларускі савецкі пісьменнік, паэт, драматург, сцэнарыст і публіцыст, класік беларускай літаратуры. З'яўляецца адной з найбольш яркіх фігур у беларускай літаратуры XX стагоддзя. Стаў першым беларускім пісьменнікам, які звярнуўся да жанру гістарычнага дэтэктыва.",
+        "nativeImage": "Korotkevich",
+        "videoFullUrl": "https://youtu.be/Dpk0KkuAYFE"
+    },
+    "en": {
+        "name": "Vladimir Semenovich Korotkevich",
+        "video": "Dpk0KkuAYFE",
+        "works": [
+            {
+                "endAt": null,
+                "genre": "Collection of poems",
+                "title": "Mother soul",
+                "startAt": "1958"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "The Wild Hunt of King Stach",
+                "startAt": "1958"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "Gray legend",
+                "startAt": "1960"
+            },
+            {
+                "endAt": "1962",
+                "genre": "Novel",
+                "title": "Leonids will not return to Earth (Do not forget)",
+                "startAt": "1960"
+            },
+            {
+                "endAt": "1964",
+                "genre": "Novel",
+                "title": "Spikes under your sickle",
+                "startAt": "1962"
+            },
+            {
+                "endAt": null,
+                "genre": "Play",
+                "title": "Kastus Kalinovsky",
+                "startAt": "1963"
+            },
+            {
+                "endAt": "1966",
+                "genre": "Novel",
+                "title": "Christ landed in Grodno",
+                "startAt": "1965"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "Chestnut leaves",
+                "startAt": "1973"
+            },
+            {
+                "endAt": null,
+                "genre": "Feature article",
+                "title": "Earth under the white wings",
+                "startAt": "1977"
+            },
+            {
+                "endAt": null,
+                "genre": "Story",
+                "title": "Rook of Despair",
+                "startAt": "1978"
+            },
+            {
+                "endAt": null,
+                "genre": "Novel",
+                "title": "Black Castle Olshansky",
+                "startAt": "1979"
+            }
+        ],
+        "location": {
+            "latitude": 30.4254486,
+            "longitude": 54.5119008
+        },
+        "nativeId": 1,
+        "biography": [
+            {
+                "endAt": null,
+                "startAt": "1930",
+                "description": "Born in the city of Orsha in the Vitebsk region in the family of an accountant."
+            },
+            {
+                "endAt": "1954",
+                "startAt": "1949",
+                "description": "Graduated from the philological faculty of T.G. Shevchenko"
+            },
+            {
+                "endAt": null,
+                "startAt": "1951",
+                "description": "He made his debut as a poet, published two poems in the Orsha district newspaper “Leninsky Call”: “There will be a channel” (in Russian) and “Yakubu Kolasu” (in Belarusian)"
+            },
+            {
+                "endAt": null,
+                "startAt": "1955",
+                "description": "He passed the candidate minimum exams and began writing a dissertation about the uprising of 1863, but he did not finish it. At the same time, the idea came of writing a novel on the same topic.."
+            },
+            {
+                "endAt": null,
+                "startAt": "1957",
+                "description": "Member of the Union of Writers of the USSR"
+            },
+            {
+                "endAt": "1958",
+                "startAt": "1954",
+                "description": "He worked as a school teacher of Russian language and literature in the village of Lesovichi (Ukraine), in his hometown, Orsha."
+            },
+            {
+                "endAt": "1962",
+                "startAt": "1958",
+                "description": "He graduated from the Higher Literary Courses, during which he became interested in cinema and began working on scripts, as well as screenwriting courses at the Institute of Cinematography in Moscow, which, like Kiev, had a serious impact on the formation of Korotkevich as a person and artist of the word"
+            },
+            {
+                "endAt": "1984",
+                "startAt": "1957",
+                "description": "Creative activity of the poet. The main theme of the writer's work is the history of his native land, its romantic and legendary comprehension. Korotkevich also wrote several plays, scripts for feature films, a large number of essays, essays and articles."
+            },
+            {
+                "endAt": null,
+                "startAt": "1983",
+                "description": "Received the award of the Ivan Melezh Union of Writers of Belarus for the novel “You Can’t Forget” (“Leonids Will Not Return to Earth”)."
+            }
+        ],
+        "birthCity": "Orsha",
+        "birthDate": "1930-11-26",
+        "deathDate": "1984-07-25",
+        "description": "Belarusian Soviet writer, poet, playwright, screenwriter and publicist, classic of Belarusian literature. It is one of the most striking figures in Belarusian literature of the 20th century. He became the first Belarusian writer to turn to the genre of historical detective story.",
+        "nativeImage": "Korotkevich",
+        "videoFullUrl": "https://youtu.be/Dpk0KkuAYFE"
+    },
+    "ru": {
+        "name": "Владимир Семёнович Короткевич",
+        "video": "Dpk0KkuAYFE",
+        "works": [
+            {
+                "endAt": null,
+                "genre": "Сборник стихов",
+                "title": "Материнская душа",
+                "startAt": "1958"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Дикая охота короля Стаха",
+                "startAt": "1958"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Седая легенда",
+                "startAt": "1960"
+            },
+            {
+                "endAt": "1962",
+                "genre": "Роман",
+                "title": "Леониды не вернутся к Земле (Нельзя забыть)",
+                "startAt": "1960"
+            },
+            {
+                "endAt": "1964",
+                "genre": "Роман",
+                "title": "Колосья под серпом твоим",
+                "startAt": "1962"
+            },
+            {
+                "endAt": null,
+                "genre": "Пьеса",
+                "title": "Кастусь Калиновский",
+                "startAt": "1963"
+            },
+            {
+                "endAt": "1966",
+                "genre": "Роман",
+                "title": "Христос приземлился в Гродно",
+                "startAt": "1965"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Листья каштанов",
+                "startAt": "1973"
+            },
+            {
+                "endAt": null,
+                "genre": "Очерк",
+                "title": "Земля под белыми крыльями",
+                "startAt": "1977"
+            },
+            {
+                "endAt": null,
+                "genre": "Повесть",
+                "title": "Ладья Отчаяния",
+                "startAt": "1978"
+            },
+            {
+                "endAt": null,
+                "genre": "Роман",
+                "title": "Чёрный замок Ольшанский",
+                "startAt": "1979"
+            }
+        ],
+        "location": {
+            "latitude": 30.4254486,
+            "longitude": 54.5119008
+        },
+        "nativeId": 1,
+        "biography": [
+            {
+                "endAt": null,
+                "startAt": "1930",
+                "description": "Родился в городе Орша Витебской области в семье бухгалтера."
+            },
+            {
+                "endAt": "1954",
+                "startAt": "1949",
+                "description": "Окончил филологический факультет Киевского университета имени Т.Г. Шевченко"
+            },
+            {
+                "endAt": null,
+                "startAt": "1951",
+                "description": "Дебютировал как поэт, опубликовал в оршанской районной газете «Ленинский призыв» два стихотворения: «Тут будет канал» (на русском языке) и «Якубу Коласу» (на белорусском языке)"
+            },
+            {
+                "endAt": null,
+                "startAt": "1955",
+                "description": "Cдал экзамены кандидатского минимума и приступил к написанию диссертации про восстание 1863 года, но так её и не закончил. В то же время пришла и идея о написании романа на эту же тему."
+            },
+            {
+                "endAt": null,
+                "startAt": "1957",
+                "description": "Член Союза писателей СССР"
+            },
+            {
+                "endAt": "1958",
+                "startAt": "1954",
+                "description": "Hаботал школьным учителем русского языка и литературы в деревне Лесовичи (Украина), в родном городе, Орше."
+            },
+            {
+                "endAt": "1962",
+                "startAt": "1958",
+                "description": "Окончил Высшие литературные курсы, во время которых увлёкся кино и начал работу над сценариями, а также сценарные курсы в Институте кинематографии в Москве, которая, как и Киев, оказала серьёзное влияние на формирование Короткевича как личности и художника слова"
+            },
+            {
+                "endAt": "1984",
+                "startAt": "1957",
+                "description": "Творческая деятельность поэта. Основная тема творчества писателя – история родного края, её романтически-легендарное осмысление. Короткевич также написал несколько пьес, сценариев для художественных фильмов, большое количество эссе, очерков и статей."
+            },
+            {
+                "endAt": null,
+                "startAt": "1983",
+                "description": "Получил премию Союза писателей Беларуси имени Ивана Мележа за роман «Нельзя забыть» («Леониды не вернутся к Земле»)."
+            }
+        ],
+        "birthCity": "Орша",
+        "birthDate": "1930-11-26",
+        "deathDate": "1984-07-25",
+        "description": "Белорусский советский писатель, поэт, драматург, сценарист и публицист, классик белорусской литературы. Является одной из наиболее ярких фигур в белорусской литературе XX столетия. Стал первым белорусским писателем, обратившимся к жанру исторического детектива.",
+        "nativeImage": "Korotkevich",
+        "videoFullUrl": "https://youtu.be/Dpk0KkuAYFE"
+    }
+}

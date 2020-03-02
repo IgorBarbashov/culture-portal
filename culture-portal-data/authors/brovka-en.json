@@ -1,0 +1,117 @@
+{
+  "nativeId": 5,
+  "nativeImage": "Brovka",
+  "name": "Petrus Brovka",
+  "birthDate": "1905-06-25",
+  "deathDate": "1980-03-24",
+"birthCity": "Putilkovichi",
+  "description": "Pyotr Ustinovich Brovka, known as Petrus Brovka - Belarusian Soviet writer, poet and translator, playwright, publicist.",
+  "video": "https://youtu.be/7xHGTr4EbK4",
+  "location": {
+    "longitude": 53.902334,
+    "latitude": 27.5618791
+  },
+  "biography": [
+    {
+      "startAt": "1905",
+      "endAt": null,
+      "description": "Born in the village of Putilkovichi (now Ushachsky district, Vitebsk region, Belarus) in a peasant family (9 children)."
+    },
+    {
+      "startAt": "1918",
+      "endAt": "1924",
+      "description": "Worked as a clerk, clerk and bookkeeper"
+    },
+    {
+      "startAt": "1925",
+      "endAt": "1927",
+      "description": "He was the head of the Komsomol District Committee in Polotsk."
+    },
+    {
+      "startAt": "1927",
+      "endAt": "1928",
+      "description": "He was the executive secretary of the newspaper «Chyrvonaya Polachchyna»."
+    },
+    {
+      "startAt": "1928",
+      "endAt": "1931",
+      "description": "Studying at the pedagogical faculty of BSU"
+    },
+    {
+      "startAt": "1941",
+      "endAt": "1942",
+      "description": "He served in the Workers 'and Peasants' Red Army, worked in the front and partisan press."
+    },
+    {
+      "startAt": "1945",
+      "endAt": "1948",
+      "description": "Editor-in-chief of the literary magazine «Polymya»."
+    },
+    {
+      "startAt": "1948",
+      "endAt": "1967",
+      "description": "Chairman of the Board of the joint venture of the BSSR."
+    },
+    {
+      "startAt": "1967",
+      "endAt": "1980",
+      "description": "Editor-in-chief of the Belarusian Soviet Encyclopedia"
+    }
+  ],
+  "works": [
+    {
+      "startAt": "1930",
+      "endAt": null,
+      "genre": "Poetry collection",
+      "title": "Years like a storm"
+    },
+    {
+      "startAt": "1933",
+      "endAt": null,
+      "genre": "Sketch",
+      "title": "Harvest"
+    },
+    {
+      "startAt": "1934",
+      "endAt": null,
+      "genre": "Poetry collection",
+      "title": "So youth began"
+    },
+    {
+      "startAt": "1937",
+      "endAt": null,
+      "genre": "Poetry collection",
+      "title": "Homeland spring"
+    },
+    {
+      "startAt": "1943",
+      "endAt": null,
+      "genre": "Poetry collection",
+      "title": "Towards the sun"
+    },
+    {
+      "startAt": "1954",
+      "endAt": null,
+      "genre": "Poetry collection",
+      "title": "When rivers merge"
+    },
+    {
+      "startAt": "1957",
+      "endAt": null,
+      "genre": "Novel",
+      "title": "Firm steps"
+    },
+    {
+      "startAt": "1960",
+      "endAt": null,
+      "genre": "Poetry collection",
+      "title": "Far from home"
+    },
+    {
+      "startAt": "1964",
+      "endAt": null,
+      "genre": "Poetry collection",
+      "title": "Youth and maturity"
+    }
+  ]
+}

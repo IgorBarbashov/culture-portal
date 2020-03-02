@@ -1,0 +1,143 @@
+{
+    "nativeId": 2,
+    "nativeImage": "Kupala",
+    "name": "Yanka Kupala",
+    "birthDate": "1882-07-07",
+    "deathDate": "1942-07-28",
+    "birthCity": "Elm",
+    "description": "Yanka Kupala (real name Ivan Dominicovich Lutsevich) - Belarusian Soviet poet and translator, playwright, publicist. Classic of Belarusian literature.",
+    "video": "https://youtu.be/aJbr-p5cYuI",
+    "activityPlace": {
+      "longitude": 54.6870458,
+      "latitude": 25.2829111
+    },
+    "biography": [
+      {
+        "startAt": "1882",
+        "endAt": null,
+        "description": "Born in the village of Vyazynka (Belarus) in a Belarusian Catholic family"
+      },
+      {
+        "startAt": "1898",
+        "endAt": null,
+        "description": "He graduated from the public school in the town of Belaruch."
+      },
+      {
+        "startAt": "1902",
+        "endAt": null,
+        "description": "After the death of his father, he worked as a home teacher, a clerk in a landowner estate, a clerk and other work."
+      },
+      {
+        "startAt": "1908",
+        "endAt": "1909",
+        "description": "He lived in Vilnius, where he worked at the editorial office of the first Belarusian newspaper «Nasha Niva»"
+      },
+      {
+        "startAt": "1909",
+        "endAt": "1913",
+        "description": "Studied in St. Petersburg at preparatory general education courses of A. Chernyaev."
+      },
+      {
+        "startAt": "1913",
+        "endAt": null,
+        "description": "He returned to Vilnius, where he first worked as a secretary of the Belarusian Publishing Partnership, and then again worked in «Nasha Niva»"
+      },
+      {
+        "startAt": "7 april 1914",
+        "endAt": null,
+        "description": "He became the editor of the newspaper «Our Niva»"},
+      {
+        "startAt": "1916",
+        "endAt": null,
+        "description": "Drafted into the army. He entered the road construction detachment, as part of which he worked until the onset of the events of the October Revolution."
+      },
+      {
+        "startAt": "1919",
+        "endAt": null,
+        "description": "Moves to Minsk. Works in the People's Commissariat of Education of the BSSR."
+      },
+      {
+        "startAt": "1925",
+        "endAt": null,
+        "description": "On May 15, in connection with the 20th anniversary of creative activity, the government of the BSSR confers Y. Kupale the title of national poet of the BSSR."
+      },
+      {
+        "startAt": "31 January 1939",
+        "endAt": null,
+        "description": "The Presidium of the Supreme Soviet of the USSR for outstanding services in the development of Soviet literature awards Y. Kupal with the Order of Lenin."
+      },
+      {
+        "startAt": "1942",
+        "endAt": null,
+        "description": "Tragically died in the Moscow Hotel under unclear circumstances (fell into a flight of stairs from the 10th floor). He was buried at the Moscow Vagankovsky cemetery"
+      }
+    ],
+    "works": [
+      {
+        "startAt": "15 July 1904",
+        "endAt": null,
+        "genre": "Poem",
+        "title": "My share"
+      },
+      {
+        "startAt": "1905",
+        "endAt": null,
+        "genre": "Poem",
+        "title": "Man"
+      },
+      {
+        "startAt": "1908",
+        "endAt": null,
+        "genre": "Poem",
+        "title": "To Pilipovka"
+      },
+      {
+        "startAt": "1910",
+        "endAt": null,
+        "genre": "Collection of poems",
+        "title": "Guslyar"
+      },
+      {
+        "startAt": "1912",
+        "endAt": null,
+        "genre": "Play",
+        "title": "Pavlinka"
+      },
+      {
+        "startAt": "1913",
+        "endAt": null,
+        "genre": "Play",
+        "title": "Scattered nest"
+      },
+      {
+        "startAt": "1913",
+        "endAt": null,
+        "genre": "Poem",
+        "title": "Grave of a lion"
+      },
+      {
+        "startAt": "1922",
+        "endAt": null,
+        "genre": "Collection of poems",
+        "title": "Heritage"
+      },
+      {
+        "startAt": "1922",
+        "endAt": null,
+        "genre": "Play",
+        "title": "Here"
+      },
+      {
+        "startAt": "1939",
+        "endAt": null,
+        "genre": "Poem",
+        "title": "Tarasova share"
+      },
+      {
+        "startAt": "1940",
+        "endAt": null,
+        "genre": "Collection of poems",
+        "title": "From the heart"
+      }
+    ]
+  }

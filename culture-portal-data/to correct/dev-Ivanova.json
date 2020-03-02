@@ -1,0 +1,23 @@
+{
+    "be": {
+        "link": "https://github.com/melk0sha",
+        "name": "Дзіяна Іванова",
+        "role": "Лідэр каманды",
+        "nativeId": "3",
+        "nativeImage": "assets/images/Ivanova.jpeg"
+    },
+    "en": {
+        "link": "https://github.com/melk0sha",
+        "name": "Diana Ivanova",
+        "role": "Team Leader",
+        "nativeId": "3",
+        "nativeImage": "assets/images/Ivanova.jpeg"
+    },
+    "ru": {
+        "link": "https://github.com/melk0sha",
+        "name": "Диана Иванова",
+        "role": "Лидер команды",
+        "nativeId": "3",
+        "nativeImage": "assets/images/Ivanova.jpeg"
+    }
+}

@@ -1,0 +1,434 @@
+"2": {
+  "be": {
+      "name": "Янка Купала",
+      "video": "https://youtu.be/aJbr-p5cYuI",
+      "works": [
+          {
+              "endAt": null,
+              "genre": "верш",
+              "title": "мая доля",
+              "startAt": "15 июля 1904"
+          },
+          {
+              "endAt": null,
+              "genre": "верш",
+              "title": "мужык",
+              "startAt": "1905"
+          },
+          {
+              "endAt": null,
+              "genre": "паэма",
+              "title": "У Піліпаўка",
+              "startAt": "1908"
+          },
+          {
+              "endAt": null,
+              "genre": "зборнік вершаў",
+              "title": "Гусляр",
+              "startAt": "1910"
+          },
+          {
+              "endAt": null,
+              "genre": "п'еса",
+              "title": "Паўлінка",
+              "startAt": "1912"
+          },
+          {
+              "endAt": null,
+              "genre": "п'еса",
+              "title": "Раскіданае гняздо",
+              "startAt": "1913"
+          },
+          {
+              "endAt": null,
+              "genre": "паэма",
+              "title": "магіла льва",
+              "startAt": "1913"
+          },
+          {
+              "endAt": null,
+              "genre": "зборнік вершаў",
+              "title": "спадчына",
+              "startAt": "1922"
+          },
+          {
+              "endAt": null,
+              "genre": "п'еса",
+              "title": "тутэйшыя",
+              "startAt": "1922"
+          },
+          {
+              "endAt": null,
+              "genre": "паэма",
+              "title": "Тарасова доля",
+              "startAt": "1939"
+          },
+          {
+              "endAt": null,
+              "genre": "зборнік вершаў",
+              "title": "ад сэрца",
+              "startAt": "1940"
+          }
+      ],
+      "nativeId": 2,
+      "biography": [
+          {
+              "endAt": null,
+              "startAt": "1882",
+              "description": "Нарадзіўся ў вёсцы Вязынка (Беларусь) у беларускай каталіцкай сям'і"
+          },
+          {
+              "endAt": null,
+              "startAt": "1898",
+              "description": "Скончыў народнае вучылішча ў мястэчку Бяларучы."
+          },
+          {
+              "endAt": null,
+              "startAt": "1902",
+              "description": "Пасля смерці бацькі працаваў хатнім настаўнікам, пісарам у абшарніцкім маёнтку, прыказчыкам і на іншых працах."
+          },
+          {
+              "endAt": "1909",
+              "startAt": "1908",
+              "description": "Жыў у Вільні, дзе працаваў у рэдакцыі першай беларускай газеты «Наша ніва»."
+          },
+          {
+              "endAt": "1913",
+              "startAt": "1909",
+              "description": "Вучыўся ў Санкт-Пецярбургу на падрыхтоўчых агульнаадукацыйных курсах А. Чарняева."
+          },
+          {
+              "endAt": null,
+              "startAt": "1913",
+              "description": "Вярнуўся ў Вільню, дзе спачатку працаваў сакратаром Беларускага выдавецкага таварыства, а потым зноў працаваў у «Нашай ніве»."
+          },
+          {
+              "endAt": null,
+              "startAt": "7 красавік 1914",
+              "description": "Cтал рэдактарам газеты «Наша ніва»."
+          },
+          {
+              "endAt": null,
+              "startAt": "1916",
+              "description": "Прызваны ў войска. Паступіў у дарожна-будаўнічы атрад, у складзе якога працаваў аж да наступлення падзей Кастрычніцкай рэвалюцыі."
+          },
+          {
+              "endAt": null,
+              "startAt": "1919",
+              "description": "Пераязджае ў Мінск. Працуе ў Народным камісарыяце асветы БССР."
+          },
+          {
+              "endAt": null,
+              "startAt": "1925",
+              "description": "15 мая ў сувязі з 20-годдзем творчай дзейнасці ўрад БССР прысвойвае Янку Купалу званне народнага паэта БССР."
+          },
+          {
+              "endAt": null,
+              "startAt": "31 Студзень 1939",
+              "description": "Прэзідыум Вярхоўнага Савета СССР за выдатныя заслугі ў развіцці савецкай літаратуры ўзнагароджвае Я. Купалу ордэнам Леніна."
+          },
+          {
+              "endAt": null,
+              "startAt": "1942",
+              "description": "Трагічна загінуў у гатэлі «Масква» пры нявысветленых абставінах (упаў ў лесвічны пралёт з 10-га паверха). Пахаваны на маскоўскім Ваганькаўскіх могілках"
+          }
+      ],
+      "birthCity": "Вязынка",
+      "birthDate": "1882-07-07",
+      "deathDate": "1942-07-28",
+      "description": "Янка Купала (сапраўднае імя Іван Дамінікавіч Луцэвіч) - беларускі савецкі паэт і перакладчык, драматург, публіцыст. Класік беларускай літаратуры.",
+      "nativeImage": "Kupala",
+      "activityPlace": {
+          "latitude": 25.2829111,
+          "longitude": 54.6870458
+      }
+  },
+  "en": {
+      "name": "Yanka Kupala",
+      "video": "https://youtu.be/aJbr-p5cYuI",
+      "works": [
+          {
+              "endAt": null,
+              "genre": "Poem",
+              "title": "My share",
+              "startAt": "15 July 1904"
+          },
+          {
+              "endAt": null,
+              "genre": "Poem",
+              "title": "Man",
+              "startAt": "1905"
+          },
+          {
+              "endAt": null,
+              "genre": "Poem",
+              "title": "To Pilipovka",
+              "startAt": "1908"
+          },
+          {
+              "endAt": null,
+              "genre": "Collection of poems",
+              "title": "Guslyar",
+              "startAt": "1910"
+          },
+          {
+              "endAt": null,
+              "genre": "Play",
+              "title": "Pavlinka",
+              "startAt": "1912"
+          },
+          {
+              "endAt": null,
+              "genre": "Play",
+              "title": "Scattered nest",
+              "startAt": "1913"
+          },
+          {
+              "endAt": null,
+              "genre": "Poem",
+              "title": "Grave of a lion",
+              "startAt": "1913"
+          },
+          {
+              "endAt": null,
+              "genre": "Collection of poems",
+              "title": "Heritage",
+              "startAt": "1922"
+          },
+          {
+              "endAt": null,
+              "genre": "Play",
+              "title": "Here",
+              "startAt": "1922"
+          },
+          {
+              "endAt": null,
+              "genre": "Poem",
+              "title": "Tarasova share",
+              "startAt": "1939"
+          },
+          {
+              "endAt": null,
+              "genre": "Collection of poems",
+              "title": "From the heart",
+              "startAt": "1940"
+          }
+      ],
+      "nativeId": 2,
+      "biography": [
+          {
+              "endAt": null,
+              "startAt": "1882",
+              "description": "Born in the village of Vyazynka (Belarus) in a Belarusian Catholic family"
+          },
+          {
+              "endAt": null,
+              "startAt": "1898",
+              "description": "He graduated from the public school in the town of Belaruch."
+          },
+          {
+              "endAt": null,
+              "startAt": "1902",
+              "description": "After the death of his father, he worked as a home teacher, a clerk in a landowner estate, a clerk and other work."
+          },
+          {
+              "endAt": "1909",
+              "startAt": "1908",
+              "description": "He lived in Vilnius, where he worked at the editorial office of the first Belarusian newspaper «Nasha Niva»"
+          },
+          {
+              "endAt": "1913",
+              "startAt": "1909",
+              "description": "Studied in St. Petersburg at preparatory general education courses of A. Chernyaev."
+          },
+          {
+              "endAt": null,
+              "startAt": "1913",
+              "description": "He returned to Vilnius, where he first worked as a secretary of the Belarusian Publishing Partnership, and then again worked in «Nasha Niva»"
+          },
+          {
+              "endAt": null,
+              "startAt": "7 april 1914",
+              "description": "He became the editor of the newspaper «Our Niva»"
+          },
+          {
+              "endAt": null,
+              "startAt": "1916",
+              "description": "Drafted into the army. He entered the road construction detachment, as part of which he worked until the onset of the events of the October Revolution."
+          },
+          {
+              "endAt": null,
+              "startAt": "1919",
+              "description": "Moves to Minsk. Works in the People's Commissariat of Education of the BSSR."
+          },
+          {
+              "endAt": null,
+              "startAt": "1925",
+              "description": "On May 15, in connection with the 20th anniversary of creative activity, the government of the BSSR confers Y. Kupale the title of national poet of the BSSR."
+          },
+          {
+              "endAt": null,
+              "startAt": "31 January 1939",
+              "description": "The Presidium of the Supreme Soviet of the USSR for outstanding services in the development of Soviet literature awards Y. Kupal with the Order of Lenin."
+          },
+          {
+              "endAt": null,
+              "startAt": "1942",
+              "description": "Tragically died in the Moscow Hotel under unclear circumstances (fell into a flight of stairs from the 10th floor). He was buried at the Moscow Vagankovsky cemetery"
+          }
+      ],
+      "birthCity": "Elm",
+      "birthDate": "1882-07-07",
+      "deathDate": "1942-07-28",
+      "description": "Yanka Kupala (real name Ivan Dominicovich Lutsevich) - Belarusian Soviet poet and translator, playwright, publicist. Classic of Belarusian literature.",
+      "nativeImage": "Kupala",
+      "activityPlace": {
+          "latitude": 25.2829111,
+          "longitude": 54.6870458
+      }
+  },
+  "ru": {
+      "name": "Янка Купала",
+      "video": "https://youtu.be/aJbr-p5cYuI",
+      "works": [
+          {
+              "endAt": null,
+              "genre": "Стихотворение",
+              "title": "Моя доля",
+              "startAt": "15 июля 1904"
+          },
+          {
+              "endAt": null,
+              "genre": "Стихотворение",
+              "title": "Мужик",
+              "startAt": "1905"
+          },
+          {
+              "endAt": null,
+              "genre": "Поэма",
+              "title": "В Пилиповку",
+              "startAt": "1908"
+          },
+          {
+              "endAt": null,
+              "genre": "Сборник стихов",
+              "title": "Гусляр",
+              "startAt": "1910"
+          },
+          {
+              "endAt": null,
+              "genre": "Пьеса",
+              "title": "Павлинка",
+              "startAt": "1912"
+          },
+          {
+              "endAt": null,
+              "genre": "Пьеса",
+              "title": "Раскиданное гнездо",
+              "startAt": "1913"
+          },
+          {
+              "endAt": null,
+              "genre": "Поэма",
+              "title": "Могила льва",
+              "startAt": "1913"
+          },
+          {
+              "endAt": null,
+              "genre": "Сборник стихов",
+              "title": "Наследие",
+              "startAt": "1922"
+          },
+          {
+              "endAt": null,
+              "genre": "Пьеса",
+              "title": "Здешние",
+              "startAt": "1922"
+          },
+          {
+              "endAt": null,
+              "genre": "Поэма",
+              "title": "Тарасова доля",
+              "startAt": "1939"
+          },
+          {
+              "endAt": null,
+              "genre": "Сборник стихов",
+              "title": "От сердца",
+              "startAt": "1940"
+          }
+      ],
+      "nativeId": 2,
+      "biography": [
+          {
+              "endAt": null,
+              "startAt": "1882",
+              "description": "Родился в деревне Вязынка (Беларусь) в белорусской католической семье"
+          },
+          {
+              "endAt": null,
+              "startAt": "1898",
+              "description": "Закончил народное училище в местечке Беларуч."
+          },
+          {
+              "endAt": null,
+              "startAt": "1902",
+              "description": "После смерти отца работал домашним учителем, писарем в помещичьем имении, приказчиком и на других работах."
+          },
+          {
+              "endAt": "1909",
+              "startAt": "1908",
+              "description": "Жил в Вильнюсе, где работал в редакции первой белорусской газеты «Наша нива»."
+          },
+          {
+              "endAt": "1913",
+              "startAt": "1909",
+              "description": "Учился в Санкт-Петербурге на подготовительных общеобразовательных курсах А. Черняева."
+          },
+          {
+              "endAt": null,
+              "startAt": "1913",
+              "description": "Возвратился в Вильнюс, где сначала работал секретарём Белорусского издательского товарищества, а потом вновь работал в «Нашей ниве»."
+          },
+          {
+              "endAt": null,
+              "startAt": "7 апреля 1914",
+              "description": "Cтал редактором газеты «Наша нива»."
+          },
+          {
+              "endAt": null,
+              "startAt": "1916",
+              "description": "Призван в армию. Поступил в дорожно-строительный отряд, в составе которого работал вплоть до наступления событий Октябрьской революции."
+          },
+          {
+              "endAt": null,
+              "startAt": "1919",
+              "description": "Переезжает в Минск. Работает в Народном комиссариате просвещения БССР."
+          },
+          {
+              "endAt": null,
+              "startAt": "1925",
+              "description": "15 мая в связи с 20-летием творческой деятельности правительство БССР присваивает Я. Купале звание народного поэта БССР."
+          },
+          {
+              "endAt": null,
+              "startAt": "31 января 1939",
+              "description": "Президиум Верховного Совета СССР за выдающиеся заслуги в развитии советской литературы награждает Я. Купалу орденом Ленина."
+          },
+          {
+              "endAt": null,
+              "startAt": "1942",
+              "description": "Трагически погиб в гостинице «Москва» при невыясненных обстоятельствах (упал в лестничный пролет с 10-го этажа). Похоронен на московском Ваганьковском кладбище"
+          }
+      ],
+      "birthCity": "Вязынка",
+      "birthDate": "1882-07-07",
+      "deathDate": "1942-07-28",
+      "description": "Янка Купала (настоящее имя Иван Доминикович Луцевич) — белорусский советский поэт и переводчик, драматург, публицист. Классик белорусской литературы.",
+      "nativeImage": "Kupala",
+      "activityPlace": {
+          "latitude": 25.2829111,
+          "longitude": 54.6870458
+      }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "nativeId": 6,
+  "nativeImage": "Bykov",
+  "name": "Vasil Bykov",
+  "birthDate": "1924-06-19",
+  "deathDate": "2003-06-22",
+  "birthCity": "Gobies",
+  "video": "https://youtu.be/N2tOCg7lROk",
+  "location": {
+    "longitude": 53.6834599,
+    "latitude": 23.8342648
+  },
+  "description": "Vasil Vladimirovich Bykov - Soviet and Belarusian writer, public figure, participant in the Great Patriotic War. Most of the works are novels, the action of which takes place during the Great Patriotic War and which shows the moral choice of a person in the most dramatic moments of life.",
+  "biography": [
+    {
+      "startAt": "1924",
+      "endAt": null,
+      "description": "Born in the village of Bychki, Ushachsky district, Vitebsk region in a peasant family."
+    },
+    {
+      "startAt": "1939",
+      "endAt": "1940",
+      "description": "He studied at the sculpture department of the Vitebsk art school, which he left due to the cancellation of scholarships"
+    },
+    {
+      "startAt": "1941",
+      "endAt": "1942",
+      "description": "He lived at the station. Saltykovka and in the city of Atkarsk, Saratov region, studied at a railway school."
+    },
+    {
+      "startAt": "1942",
+      "endAt": null,
+      "description": "Drafted into the army"
+    },
+    {
+      "startAt": "1943",
+      "endAt": null,
+      "description": "Assigned the rank of second lieutenant. Participated in the battles of Krivoy Rog, Alexandria, Znamenka. During the Kirovograd operation wounded in the leg and stomach"
+    },
+    {
+      "startAt": "1944",
+      "endAt": "1947",
+      "description": "With the army he went through Bulgaria, Hungary, Yugoslavia, Austria; senior lieutenant, commander of a platoon of regimental, then army artillery."
+    },
+    {
+      "startAt": "1974",
+      "endAt": "1949",
+      "description": "He lived in Grodno. He worked in workshops, as well as in the editorial office of the regional newspaper «Grodno Pravda»"
+    },
+    {
+      "startAt": "1949",
+      "endAt": "1955",
+      "description": "Service in the Soviet Army"
+    },
+    {
+      "startAt": "1955",
+      "endAt": "1972",
+      "description": "Service in the «Soviet Army»"
+    },
+    {
+      "startAt": "1959",
+      "endAt": null,
+      "description": "Member of the Union of Writers of the USSR"
+    },
+    {
+      "startAt": "1978",
+      "endAt": null,
+      "description": "Moved to Minsk"
+    },
+    {
+      "startAt": "1978",
+      "endAt": "1989",
+      "description": "He was elected as a deputy of the Supreme Council of the Belarusian SSR"
+    },
+    {
+      "startAt": "since 1997",
+      "endAt": null,
+      "description": "He lived abroad in political emigration"
+    },
+    {
+      "startAt": "2003",
+      "endAt": null,
+      "description": "He returned to his homeland."
+    }
+  ],
+  "works": [
+    {
+      "startAt": "1957",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Last fighter"
+    },
+    {
+      "startAt": "1959",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Crane scream"
+    },
+    {
+      "startAt": "1963",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Alpine ballad"
+    },
+    {
+      "startAt": "1965",
+      "endAt": null,
+      "genre": "Story",
+      "title": "It doesn't hurt the dead"
+    },
+    {
+      "startAt": "1966",
+      "endAt": null,
+      "genre": "Рассказ",
+      "title": "Our people"
+    },
+    {
+      "startAt": "1969",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Cold"
+    },
+    {
+      "startAt": "1971",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Obelisk"
+    },
+    {
+      "startAt": "1972",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Survive until dawn"
+    },
+    {
+      "startAt": "1975",
+      "endAt": null,
+      "genre": "Рассказ",
+      "title": "At sunrise"
+    },
+    {
+      "startAt": "1982",
+      "endAt": null,
+      "genre": "Story",
+      "title": "Sign of trouble"
+    },
+    {
+      "startAt": "1987",
+      "endAt": null,
+      "genre": "Story",
+      "title": "In the fog"
+    }
+  ]
+}

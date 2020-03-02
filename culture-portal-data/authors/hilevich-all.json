@@ -1,0 +1,305 @@
+"7": {
+  "be": {
+      "name": "Ніл Гілевіч",
+      "video": "https://youtu.be/sWPk3sk6m6k",
+      "works": [
+          {
+              "endAt": null,
+              "genre": "паэзія",
+              "title": "Песня ў дарогу",
+              "startAt": "1957"
+          },
+          {
+              "endAt": null,
+              "genre": "паэзія",
+              "title": "неспакой",
+              "startAt": "1961"
+          },
+          {
+              "endAt": null,
+              "genre": "паэзія",
+              "title": "зялёны востраў",
+              "startAt": "1963"
+          },
+          {
+              "endAt": null,
+              "genre": "паэзія",
+              "title": "Русалка на Нарачы",
+              "startAt": "1974"
+          },
+          {
+              "endAt": null,
+              "genre": "паэзія",
+              "title": "У добрай згодзе",
+              "startAt": "1979"
+          },
+          {
+              "endAt": null,
+              "genre": "Раман у вершах",
+              "title": "родныя дзеці",
+              "startAt": "1985"
+          },
+          {
+              "endAt": null,
+              "genre": "паэзія",
+              "title": "добры чалавек",
+              "startAt": "1987"
+          },
+          {
+              "endAt": null,
+              "genre": "аповесць",
+              "title": "перажыўшы вайну",
+              "startAt": "1988"
+          }
+      ],
+      "location": {
+          "latitude": 27.5618791,
+          "longitude": 53.902334
+      },
+      "nativeId": 7,
+      "biography": [
+          {
+              "endAt": null,
+              "startAt": "1931",
+              "description": "Нарадзіўся ў в. Слабада Лагойскага раёна Мінскай вобласці ў сялянскай сям'і."
+          },
+          {
+              "endAt": null,
+              "startAt": "1951",
+              "description": "Скончыў Мінскае педагагічнае вучылішча імя Н. К. Крупскай"
+          },
+          {
+              "endAt": null,
+              "startAt": "1956",
+              "description": "Скончыў філалагічны факультэт Беларускага дзяржаўнага універсітэта і аспірантуру пры ім."
+          },
+          {
+              "endAt": "1963",
+              "startAt": "1958",
+              "description": "Працаваў літаратурным кансультантам газеты «Звязда»."
+          },
+          {
+              "endAt": "1986",
+              "startAt": "1960",
+              "description": "Працаваў на кафедры беларускай літаратуры БДУ."
+          },
+          {
+              "endAt": "1989",
+              "startAt": "1980",
+              "description": "Першы сакратар праўлення Саюза пісьменнікаў Беларускай ССР."
+          },
+          {
+              "endAt": null,
+              "startAt": "с 1989",
+              "description": "Старшыня Таварыства беларускай мовы ім. Францыска Скарыны, галоўны рэдактар ​​бюлетэня дадзенай арганізацыі «Наша слова»."
+          }
+      ],
+      "birthCity": "слабада",
+      "birthDate": "1931-09-30",
+      "deathDate": "2016-03-29",
+      "description": "Ніл Сямёнавіч Гілевіч - савецкі і беларускі пісьменнік, перакладчык, літаратуразнаўца, фалькларыст, грамадскі дзеяч.",
+      "nativeImage": "Hilevich"
+  },
+  "en": {
+      "name": "Neil Gilevich",
+      "video": "https://youtu.be/sWPk3sk6m6k",
+      "works": [
+          {
+              "endAt": null,
+              "genre": "Poetry",
+              "title": "Song on the road",
+              "startAt": "1957"
+          },
+          {
+              "endAt": null,
+              "genre": "Poetry",
+              "title": "Anxiety",
+              "startAt": "1961"
+          },
+          {
+              "endAt": null,
+              "genre": "Poetry",
+              "title": "Green Island",
+              "startAt": "1963"
+          },
+          {
+              "endAt": null,
+              "genre": "Poetry",
+              "title": "Mermaid on Naroch",
+              "startAt": "1974"
+          },
+          {
+              "endAt": null,
+              "genre": "Poetry",
+              "title": "In good agreement",
+              "startAt": "1979"
+          },
+          {
+              "endAt": null,
+              "genre": "Novel in verse",
+              "title": "Native children",
+              "startAt": "1985"
+          },
+          {
+              "endAt": null,
+              "genre": "Poetry",
+              "title": "Good person",
+              "startAt": "1987"
+          },
+          {
+              "endAt": null,
+              "genre": "Story",
+              "title": "Surviving the war",
+              "startAt": "1988"
+          }
+      ],
+      "location": {
+          "latitude": 27.5618791,
+          "longitude": 53.902334
+      },
+      "nativeId": 7,
+      "biography": [
+          {
+              "endAt": null,
+              "startAt": "1931",
+              "description": "Born in the village of Sloboda, Logoisk district, Minsk region in a peasant family."
+          },
+          {
+              "endAt": null,
+              "startAt": "1951",
+              "description": "Graduated from Minsk Pedagogical College named after N.K. Krupskaya"
+          },
+          {
+              "endAt": null,
+              "startAt": "1956",
+              "description": "ОкHe graduated from the philological faculty of the Belarusian State University and graduate school with him."
+          },
+          {
+              "endAt": "1963",
+              "startAt": "1958",
+              "description": "He worked as a literary consultant for the newspaper «Zvyazda»."
+          },
+          {
+              "endAt": "1986",
+              "startAt": "1960",
+              "description": "He worked at the Department of Belarusian Literature of BSU."
+          },
+          {
+              "endAt": "1989",
+              "startAt": "1980",
+              "description": "First Secretary of the Board of the Union of Writers of the Belarusian SSR."
+          },
+          {
+              "endAt": null,
+              "startAt": "since 1989",
+              "description": "Chairman of the Belarusian Language Society Francis Skorina, editor-in-chief of the newsletter of this organization, «Our Words»."
+          }
+      ],
+      "birthCity": "Sloboda",
+      "birthDate": "1931-09-30",
+      "deathDate": "2016-03-29",
+      "description": "Neil Semenovich Gilevich - Soviet and Belarusian writer, translator, literary critic, folklorist, public figure.",
+      "nativeImage": "Hilevich"
+  },
+  "ru": {
+      "name": "Нил Гилевич",
+      "video": "https://youtu.be/sWPk3sk6m6k",
+      "works": [
+          {
+              "endAt": null,
+              "genre": "Поэзия",
+              "title": "Песня в дорогу",
+              "startAt": "1957"
+          },
+          {
+              "endAt": null,
+              "genre": "Поэзия",
+              "title": "Беспокойство",
+              "startAt": "1961"
+          },
+          {
+              "endAt": null,
+              "genre": "Поэзия",
+              "title": "Зеленый остров",
+              "startAt": "1963"
+          },
+          {
+              "endAt": null,
+              "genre": "Поэзия",
+              "title": "Русалка на Нарочи",
+              "startAt": "1974"
+          },
+          {
+              "endAt": null,
+              "genre": "Поэзия",
+              "title": "В добром согласии",
+              "startAt": "1979"
+          },
+          {
+              "endAt": null,
+              "genre": "Роман в стихах",
+              "title": "Родные дети",
+              "startAt": "1985"
+          },
+          {
+              "endAt": null,
+              "genre": "Поэзия",
+              "title": "Добрый человек",
+              "startAt": "1987"
+          },
+          {
+              "endAt": null,
+              "genre": "Повесть",
+              "title": "Пережив войну",
+              "startAt": "1988"
+          }
+      ],
+      "location": {
+          "latitude": 27.5618791,
+          "longitude": 53.902334
+      },
+      "nativeId": 7,
+      "biography": [
+          {
+              "endAt": null,
+              "startAt": "1931",
+              "description": "Родился в д. Слобода Логойского района Минской области в крестьянской семье."
+          },
+          {
+              "endAt": null,
+              "startAt": "1951",
+              "description": "Окончил Минское педагогическое училище имени Н. К. Крупской"
+          },
+          {
+              "endAt": null,
+              "startAt": "1956",
+              "description": "Окончил  филологический факультет Белорусского государственного университета и аспирантуру при нём."
+          },
+          {
+              "endAt": "1963",
+              "startAt": "1958",
+              "description": "Работал литературным консультантом газеты «Звязда»."
+          },
+          {
+              "endAt": "1986",
+              "startAt": "1960",
+              "description": "Работал на кафедре белорусской литературы БГУ."
+          },
+          {
+              "endAt": "1989",
+              "startAt": "1980",
+              "description": "Первый секретарь правления Союза писателей Белорусской ССР."
+          },
+          {
+              "endAt": null,
+              "startAt": "с 1989",
+              "description": "Председатель Общества белорусского языка им. Франциска Скорины, главный редактор бюллетеня данной организации «Наша слова»."
+          }
+      ],
+      "birthCity": "Слобода",
+      "birthDate": "1931-09-30",
+      "deathDate": "2016-03-29",
+      "description": "Нил Семёнович Гилевич — советский и белорусский писатель, переводчик, литературовед, фольклорист, общественный деятель.",
+      "nativeImage": "Hilevich"
+  }
+}
